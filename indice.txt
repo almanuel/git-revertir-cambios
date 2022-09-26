@@ -2,3 +2,4 @@ INDICE
 
 1. Introducción.
 2. Git local.
+3. Git remoto.
